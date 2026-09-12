@@ -18,3 +18,6 @@ npm-debug.log*
 .env
 .env.local
 .env.*.local
+
+# Horizons session-journal runtime output
+vault/
