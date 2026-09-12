@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    
+    /* Emerald Green Primary */
+    --primary: 158 64% 35%; 
+    --primary-foreground: 210 40% 98%;
+    
+    /* Complementary Green Secondary */
+    --secondary: 142 71% 45%;
+    --secondary-foreground: 0 0% 100%;
+    
+    /* Warm Accent (e.g., earthy orange/gold) */
+    --accent: 38 92% 50%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+    
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 158 64% 35%;
+    --radius: 0.75rem;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    
+    --primary: 158 64% 35%;
+    --primary-foreground: 210 40% 98%;
+    
+    --secondary: 142 71% 45%;
+    --secondary-foreground: 0 0% 100%;
+    
+    --accent: 38 92% 50%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+    
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 158 64% 35%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', sans-serif;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold tracking-tight text-foreground;
+  }
+  h1 {
+    @apply text-4xl md:text-5xl lg:text-6xl;
+  }
+  h2 {
+    @apply text-3xl md:text-4xl;
+  }
+  h3 {
+    @apply text-2xl md:text-3xl;
+  }
+  p {
+    @apply text-muted-foreground leading-relaxed;
+  }
+}
+
+/* Editable System Styles */
+[data-editable="true"].editable-active {
+  outline: 2px dashed hsl(var(--primary));
+  outline-offset: 4px;
+  cursor: text;
+  border-radius: 2px;
+  transition: all 0.2s ease;
+  position: relative;
+  z-index: 10;
+}
+
+[data-editable="true"].editable-active:hover {
+  background-color: hsl(var(--primary) / 0.1);
+  outline-style: solid;
+}
+
+[data-editable="true"].editable-active:focus {
+  outline: 2px solid hsl(var(--primary));
+  background-color: hsl(var(--primary) / 0.1);
+  box-shadow: 0 0 0 4px hsl(var(--primary) / 0.2);
+}
+
+.section-padding {
+  @apply py-20 md:py-28;
+}
+
+.glass-card {
+  @apply bg-white/90 backdrop-blur-md border border-white/20 shadow-xl;
+}
+
+.dark .glass-card {
+  @apply bg-black/50 border-white/10;
+}

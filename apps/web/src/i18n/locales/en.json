@@ -1,0 +1,446 @@
+{
+  "nav": {
+    "brandName": "Cyicaro",
+    "home": "Home",
+    "about": "About",
+    "whatWeDo": "What We Do",
+    "nosActivites": "Our Activities",
+    "donate": "Donate",
+    "supportUs": "Support Us"
+  },
+  "footer": {
+    "brandName": "Cyicaro",
+    "address": "Cyicaro Farm, Rwanda",
+    "email": "info@mushishiro.org",
+    "phone": "+250 XXX XXX XXX",
+    "subtitle": "Produce, regenerate, share",
+    "desc": "Cultivating sustainable agriculture and regenerating communities through integrated farming practices.",
+    "quickLinks": "Quick Links",
+    "areasOfAction": "Our Areas of Action",
+    "contact": "Contact Us",
+    "rights": "Cyicaro Farm. All rights reserved.",
+    "actions": {
+      "agri": "Agriculture",
+      "live": "Livestock",
+      "comp": "Compost & Manure",
+      "forage": "Forage",
+      "social": "Social Impact"
+    }
+  },
+  "home": {
+    "title": "Cyicaro Farm - Produce, regenerate, share",
+    "meta": "Cyicaro Farm: Leading integrated agriculture in Rwanda. Discover our mission to produce, regenerate, and share for a sustainable future.",
+    "hero": {
+      "subtitle": "Cyicaro Farm",
+      "title": "Produce, regenerate, share",
+      "desc": "Transforming lives through sustainable agriculture and integrated livestock farming in Mushishiro",
+      "btnLearn": "Learn more",
+      "btnSupport": "Support our mission",
+      "imageAlt": "Lush farmland with crops"
+    },
+    "mission": {
+      "title": "Our Mission",
+      "desc": "At Cyicaro, we believe in the power of integrated farming to create sustainable livelihoods and regenerate our lands. By combining agriculture, livestock, compost production, and forage management, we create a holistic ecosystem that benefits both people and the planet. Our commitment is to produce nutritious food, regenerate the soil, and share our knowledge with the community."
+    },
+    "why": {
+      "title": "Why Support Us?",
+      "desc": "Your contribution is an investment in a sustainable and resilient future. We are building a circular economic model that requires initial funding to develop our infrastructure, from production tools to waste processing. Your support is crucial to realize this vision.",
+      "pillars": {
+        "social": {
+          "title": "Social Impact",
+          "desc": "Contribute to local roots, education, and sustainable job creation. Your support helps build a resilient community from the ground up."
+        },
+        "economic": {
+          "title": "Economic Viability",
+          "desc": "Invest in a circular model that creates value at every stage, from production to waste transformation, ensuring long-term financial sustainability."
+        },
+        "environmental": {
+          "title": "Environmental Impact",
+          "desc": "Fund a project that actively regenerates soils, preserves biodiversity, and promotes a resilient production method against climate change."
+        }
+      }
+    },
+    "vision": {
+      "title": "Our Vision",
+      "desc": "To be a leading example of sustainable integrated agriculture in Rwanda and beyond, inspiring communities to adopt regenerative practices that restore the land while ensuring food security and economic opportunities. We envision a future where farming works in harmony with nature."
+    },
+    "commitment": {
+      "title": "Our Sustainable Commitment",
+      "desc": "Our circular model is our commitment in action. Crops feed our livestock, whose waste is transformed into rich compost. This compost regenerates our soil, allowing us to grow more nutritious crops. This closed-loop system minimizes waste, maximizes resource efficiency, and creates a truly sustainable farming ecosystem.",
+      "btn": "Join our commitment"
+    }
+  },
+  "about": {
+    "title": "About Us | Cyicaro Farm",
+    "meta": "Learn about Cyicaro Farm, a sustainable agroforestry project founded in 2019 in Mushishiro, Rwanda.",
+    "hero": {
+      "title": "About Cyicaro Project Farm",
+      "subtitle": "Driving sustainable rural development through an integrated circular economy in Mushishiro.",
+      "cta": "Discover Our Impact"
+    },
+    "problem": {
+      "title": "The Problem We Solve",
+      "desc": "Rural areas face significant challenges: underutilized land, youth unemployment, low crop valorization, and a lack of agro-processing. Cyicaro acts to transform these challenges into opportunities.",
+      "cards": {
+        "p1": {
+          "title": "Land Valorization",
+          "desc": "Rehabilitating unused parcels with advanced soil conservation practices."
+        },
+        "p2": {
+          "title": "Job Creation",
+          "desc": "Creating local employment and providing practical on-field training."
+        },
+        "p3": {
+          "title": "Local Valorization",
+          "desc": "Improving quality, sorting, targeting proximity markets, and small-scale transformation."
+        },
+        "p4": {
+          "title": "Food Security",
+          "desc": "Supporting school canteens and vulnerable households directly from our harvests."
+        }
+      }
+    },
+    "circular": {
+      "title": "Our Circular Approach",
+      "subtitle": "Crops ↔ Livestock ↔ Compost ↔ Transformation",
+      "desc": "This interconnected cycle transforms underutilized resources into sustainable economic and social value for the Mushishiro community. Everything is reused; nothing is wasted."
+    },
+    "solutions": {
+      "title": "The Solutions We Bring",
+      "pillars": {
+        "societal": {
+          "title": "Societal Impact",
+          "items": [
+            "Local jobs across crops, livestock, and development.",
+            "On-field training for youth and women (compost, mulching).",
+            "School canteen support with a share of our harvests.",
+            "Compost at social prices & demonstration plots for neighbors."
+          ]
+        },
+        "environmental": {
+          "title": "Environmental Impact",
+          "items": [
+            "100% natural compost regenerating depleted soils.",
+            "Vegetative cover & mulching to retain moisture and reduce herbicides.",
+            "Anti-erosion bands and farm forestry (Grevillea).",
+            "Beekeeping for better orchard pollination and biodiversity."
+          ]
+        },
+        "economic": {
+          "title": "Economic Viability",
+          "items": [
+            "Local sales: bananas, citrus, livestock products.",
+            "Small transformation to create added value.",
+            "Virtuous circle: livestock → compost → crops → revenue.",
+            "Funding focuses on critical infrastructure needs."
+          ]
+        }
+      }
+    },
+    "mission": {
+      "title": "Our Mission",
+      "subtitle": "Create useful value for Mushishiro: Produce, Regenerate, Share, and Transform.",
+      "items": {
+        "m1": "Produce responsibly fruits, staple crops and animal products for local circuits.",
+        "m2": "Develop integrated livestock generating recurring revenue and organic fertilizer.",
+        "m3": "Regenerate soils through compost, vegetative cover, and erosion control.",
+        "m4": "Share social utility: jobs, training, school canteen donations.",
+        "m5": "Transform locally to reduce losses and create added value.",
+        "m6": "Ensure transparency & partnerships via simple records and field visits."
+      }
+    },
+    "funding": {
+      "title": "What We Need to Accelerate Impact",
+      "desc": "Your support helps us scale from a functional model to structured, long-term capacity.",
+      "items": {
+        "f1": {
+          "title": "Increase Livestock",
+          "desc": "More milk, eggs, and compost; more regular food donations."
+        },
+        "f2": {
+          "title": "Light Mechanization",
+          "desc": "Relieve labor and increase yields with proper soil prep tools."
+        },
+        "f3": {
+          "title": "Multipurpose Warehouse",
+          "desc": "Clean, ventilated zone for macadamia prep and secure product storage."
+        },
+        "f4": {
+          "title": "Animal Feed Equipment",
+          "desc": "Mixer/grinder to formulate rations and reduce operational costs."
+        },
+        "f5": {
+          "title": "Working Capital",
+          "desc": "Cover basic inputs and confidently maintain our social commitments."
+        }
+      },
+      "benefit": "In exchange: expense traceability, field visits, and short impact reports."
+    },
+    "whyNow": {
+      "title": "Why Now?",
+      "desc": "We have proven our model works. Scaling now means more products, fewer losses, and direct, amplified social impact for the schools and households of Mushishiro. The foundation is laid; it's time to build the future."
+    },
+    "metrics": {
+      "jobs": "Local Jobs Created",
+      "hectares": "Hectares Managed",
+      "students": "Students Supported"
+    },
+    "cta": {
+      "title": "Join Our Journey",
+      "subtitle": "Support our integrated approach and change lives in Mushishiro.",
+      "btnDonate": "Make a Donation",
+      "btnContact": "Partner With Us"
+    }
+  },
+  "nos_activites": {
+    "integration_power": {
+      "title": "The Power of Integration",
+      "description": "These activities are not separate initiatives; they are <strong>deeply integrated</strong>.<br/><br/><strong>Farming</strong> provides food for our livestock and resources for our processing center.<br/><strong>Livestock</strong> provides manure to enrich our soils.<br/>Our <strong>forests</strong> protect our land.<br/><br/>This <strong>holistic system</strong> creates a resilient, self-sustaining farm that benefits the environment and our community."
+    }
+  },
+  "activitiesPage": {
+    "title": "Our Activities",
+    "subtitle": "Discover our integrated farming initiatives building a sustainable future.",
+    "btnLearnMore": "Learn More",
+    "btnClose": "Close",
+    "categories": {
+      "agriculture": "Agriculture & Crops",
+      "livestock": "Livestock & Animals",
+      "ecosystem": "Ecosystem & Impact"
+    },
+    "items": [
+      {
+        "title": "Macadamia Cultivation",
+        "short": "Sustainable macadamia nut farming contributing to long-term community value.",
+        "full": "We grow hundreds of macadamia trees as a long-term investment. This high-value crop provides excellent nutrition, improves soil health through agroforestry practices, and creates sustainable economic opportunities for local farmers."
+      },
+      {
+        "title": "Livestock & Water Sources",
+        "short": "Integrated livestock management relying on clean, protected water sources.",
+        "full": "Our livestock management is deeply integrated with our water conservation efforts. We ensure clean drinking water for our animals while protecting local springs."
+      },
+      {
+        "title": "Citrus & Fruits",
+        "short": "Diverse fruit orchards providing fresh, nutritious food locally.",
+        "full": "Our vibrant orchards are filled with various citrus trees and other fruits. These orchards improve local food security, provide vital habitats for pollinators, and serve as a reliable source of fresh produce."
+      },
+      {
+        "title": "Banana Plantations",
+        "short": "Staple green bananas ensuring continuous food security.",
+        "full": "Bananas are a critical staple crop in our region. Our sustainable banana plantations provide year-round food security and income. The large leaves also provide essential shade."
+      },
+      {
+        "title": "Animal Husbandry",
+        "short": "Healthy animals providing essential resources and natural fertilizer.",
+        "full": "We raise a variety of livestock with a focus on animal welfare. Our animals provide essential protein sources, and their manure is a key ingredient in our high-quality compost."
+      },
+      {
+        "title": "Composting",
+        "short": "Transforming organic waste into nutrient-rich soil.",
+        "full": "Composting is the heart of our regenerative cycle. We gather agricultural waste and animal manure, transforming them into rich organic compost to naturally enrich the soil."
+      },
+      {
+        "title": "Forage & Pastures",
+        "short": "Nutritious grasses grown to feed our animals sustainably.",
+        "full": "We dedicate specific areas to growing high-quality forage crops for our livestock. This ensures our animals receive optimal nutrition year-round and allows rotational grazing."
+      },
+      {
+        "title": "Forestry & Agroforestry",
+        "short": "Integrating trees into agriculture to protect and restore the land.",
+        "full": "Our forestry initiatives combat erosion, improve water retention, and enhance local biodiversity. By integrating native trees, we create natural windbreaks and provide sustainable timber."
+      },
+      {
+        "title": "Social Impact",
+        "short": "Empowering communities through jobs and education.",
+        "full": "Our farm is a catalyst for community development. We create fair-wage jobs, offer training in regenerative agriculture, and support local educational initiatives."
+      },
+      {
+        "title": "Innovative Crops",
+        "short": "Experimenting with new, resilient plant varieties.",
+        "full": "We continually test and integrate new, climate-resilient crop varieties. This helps us adapt to changing weather patterns and discover new high-value markets."
+      }
+    ]
+  },
+  "whatWeDo": {
+    "title": "What We Do - Cyicaro Farm",
+    "meta": "Explore the integrated activities of Cyicaro Farm: Agriculture, Livestock, Composting, and more. See how we build a sustainable future.",
+    "hero": {
+      "title": "Our Activities",
+      "desc": "An integrated model for a resilient and prosperous future."
+    },
+    "activities": {
+      "agriculture": {
+        "title": "Agriculture",
+        "desc": "Our diverse farming practices form the foundation of our regenerative system, emphasizing high-value crops, food security, and soil health.",
+        "subs": {
+          "macadamia": {
+            "title": "Macadamia",
+            "desc": "We grow hundreds of macadamia trees on our Cyicaro site. These trees represent a long-term investment in nutritious, high-value products and contribute to our agroforestry system."
+          },
+          "sugar": {
+            "title": "Sugar Cane",
+            "desc": "Our sugar cane plants are a source of local, sustainable sweetness. This crop is well-suited to our climate and provides raw materials for value-added products."
+          },
+          "citrus": {
+            "title": "Citrus & Fruits",
+            "desc": "Our diverse orchard thrives with a variety of citrus and other fruits, offering fresh, healthy options to the local community."
+          },
+          "banana": {
+            "title": "Bananas",
+            "desc": "We bolster local food security with extensive green banana plantations. These are a staple food source and key component of community well-being."
+          }
+        }
+      },
+      "livestock": {
+        "title": "Livestock",
+        "desc": "Our animals are essential to our circular model, providing manure for compost, aiding in land management, and supplying valuable products.",
+        "subs": {
+          "cattle": {
+            "title": "Cattle",
+            "desc": "Our herd contributes to soil fertility through managed grazing and provides manure, a crucial component of our organic compost production."
+          },
+          "poultry": {
+            "title": "Poultry / Laying Hens",
+            "desc": "Our flock of laying hens provides fresh, nutritious eggs to the community and contributes to pest control and soil enrichment."
+          },
+          "bees": {
+            "title": "Bees",
+            "desc": "Our apiaries are vital for pollinating our diverse crops and orchards. They also produce delicious raw honey."
+          },
+          "goats": {
+            "title": "Goats",
+            "desc": "Hardy and efficient, our goats help manage vegetation and provide milk and manure."
+          },
+          "pigs": {
+            "title": "Pigs",
+            "desc": "Our pigs play a role in converting farm by-products into valuable protein and contribute to our composting system."
+          }
+        }
+      },
+      "compost": {
+        "title": "Compost & Manure",
+        "desc": "At the heart of our regenerative process is our high-quality compost. By transforming animal manure and organic waste into nutrient-rich soil amendment, we close the loop."
+      },
+      "forage": {
+        "title": "Forage",
+        "desc": "We dedicate land to growing nutritious forage for our livestock. This ensures our animals are healthy and well-fed sustainably."
+      },
+      "forest": {
+        "title": "Forestry",
+        "desc": "Our agroforestry initiatives integrate trees into our agricultural landscape to enhance biodiversity, prevent soil erosion, and improve water retention."
+      }
+    },
+    "impact": {
+      "tag": "Social Impact",
+      "title": "Empowering Our Local Community",
+      "desc": "Our farm is more than just an agricultural project; it's a hub for community growth. By providing fair-wage employment, educational programs for local youth, and supporting local schools, we ensure our success translates into regional prosperity.",
+      "stats": {
+        "jobs": {
+          "value": "50+",
+          "label": "Local Jobs Created"
+        },
+        "students": {
+          "value": "200+",
+          "label": "Students Supported"
+        }
+      }
+    },
+    "integration": {
+      "title": "The Power of Integration",
+      "desc": "These activities are not separate initiatives; they are deeply integrated. Farming provides food for our livestock and resources for our processing center. Livestock provides manure to enrich our soils. Our forests protect our land. This holistic system creates a resilient, self-sustaining farm."
+    }
+  },
+  "donate": {
+    "title": "Donate - Support Cyicaro Farm",
+    "meta": "Support Cyicaro Farm's mission to create sustainable agriculture and empower communities through integrated farming practices.",
+    "hero": {
+      "title": "Support Our Mission",
+      "desc": "Your donation helps us expand sustainable farming practices and empower communities across Rwanda",
+      "btn": "Donate Now"
+    },
+    "redirect": {
+      "title": "Redirecting to donation platform",
+      "desc": "🚧 This feature isn't implemented yet—but don't worry! You can request it in your next prompt! 🚀"
+    },
+    "impact": {
+      "title": "Where Your Donation Goes",
+      "desc": "Every contribution directly supports our integrated farming initiatives and community development programs",
+      "areas": {
+        "expand": {
+          "title": "Expand Agricultural Production",
+          "desc": "Help us cultivate more land and introduce new sustainable farming techniques to increase food production.",
+          "amount": "500 €"
+        },
+        "train": {
+          "title": "Train More Farmers",
+          "desc": "Support our training programs to empower local farmers with knowledge and skills in regenerative agriculture.",
+          "amount": "250 €"
+        },
+        "infrastructure": {
+          "title": "Improve Infrastructure",
+          "desc": "Invest in better irrigation systems, storage facilities, and equipment to enhance our farming efficiency.",
+          "amount": "1 000 €"
+        }
+      }
+    },
+    "tiers": {
+      "title": "Donation Tiers",
+      "desc": "Choose a giving level that works for you and receive special recognition for your support",
+      "popular": "Most Popular",
+      "btnPrefix": "Donate",
+      "items": {
+        "supporter": {
+          "title": "Supporter",
+          "amount": "25 €",
+          "b1": "Monthly newsletters",
+          "b2": "Digital certificate of appreciation",
+          "b3": "Social media recognition"
+        },
+        "champion": {
+          "title": "Champion",
+          "amount": "100 €",
+          "b1": "All Supporter benefits",
+          "b2": "Quarterly impact reports",
+          "b3": "Invitation to virtual farm tours",
+          "b4": "Personalized video update"
+        },
+        "partner": {
+          "title": "Partner",
+          "amount": "500 €",
+          "b1": "All Champion benefits",
+          "b2": "Annual in-person farm visit",
+          "b3": "Name on donor wall",
+          "b4": "Direct updates from farm management",
+          "b5": "Opportunity to sponsor specific projects"
+        }
+      }
+    },
+    "why": {
+      "title": "Why Your Support Matters",
+      "imageAlt": "Community members benefiting from farm",
+      "desc1": "Your donation to Cyicaro Farm creates a lasting impact that extends far beyond our fields. When you support our integrated farming approach, you invest in:",
+      "l1": "Sustainable food production that feeds hundreds of families",
+      "l2": "Environmental regeneration through organic farming practices",
+      "l3": "Economic empowerment of local communities",
+      "l4": "Knowledge sharing that multiplies the impact across the region",
+      "desc2": "Every contribution, no matter the size, helps us grow our impact and reach more communities with sustainable agricultural solutions."
+    },
+    "other": {
+      "title": "Other Ways to Support Us",
+      "items": {
+        "volunteer": {
+          "title": "Volunteering",
+          "desc": "Share your skills and time with our community"
+        },
+        "partner": {
+          "title": "Partnership",
+          "desc": "Collaborate with us on research and development"
+        },
+        "spread": {
+          "title": "Spread the Word",
+          "desc": "Share our mission with your network"
+        }
+      }
+    }
+  }
+}

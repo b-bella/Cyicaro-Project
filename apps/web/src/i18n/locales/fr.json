@@ -1,0 +1,446 @@
+{
+  "nav": {
+    "brandName": "Cyicaro",
+    "home": "Accueil",
+    "about": "À propos",
+    "whatWeDo": "Ce que nous faisons",
+    "nosActivites": "Nos Activités",
+    "donate": "Faire un don",
+    "supportUs": "Nous Soutenir"
+  },
+  "footer": {
+    "brandName": "Cyicaro",
+    "address": "Ferme Cyicaro, Rwanda",
+    "email": "info@cyicaro.org",
+    "phone": "+250 XXX XXX XXX",
+    "subtitle": "Produire, régénérer, partager",
+    "desc": "Cultiver une agriculture durable et régénérer les communautés grâce à des pratiques agricoles intégrées.",
+    "quickLinks": "Liens Rapides",
+    "areasOfAction": "Nos Domaines d'Action",
+    "contact": "Nous Contacter",
+    "rights": "Ferme Cyicaro. Tous droits réservés.",
+    "actions": {
+      "agri": "Agriculture",
+      "live": "Élevage",
+      "comp": "Compost et Engrais",
+      "forage": "Fourrage",
+      "social": "Impact Social"
+    }
+  },
+  "home": {
+    "title": "Ferme Cyicaro - Produire, régénérer, partager",
+    "meta": "Ferme Cyicaro : Leader de l'agriculture intégrée au Rwanda. Découvrez notre mission pour produire, régénérer et partager pour un avenir durable.",
+    "hero": {
+      "subtitle": "Ferme Cyicaro",
+      "title": "Produire, régénérer, partager",
+      "desc": "Transformer des vies grâce à l'agriculture durable et à l'élevage intégré à Mushishiro",
+      "btnLearn": "En savoir plus",
+      "btnSupport": "Soutenir notre mission",
+      "imageAlt": "Terres agricoles luxuriantes avec des cultures"
+    },
+    "mission": {
+      "title": "Notre Mission",
+      "desc": "À Cyicaro, nous croyons au pouvoir de l'agriculture intégrée pour créer des moyens de subsistance durables et régénérer nos terres. En combinant l'agriculture, l'élevage, la production de compost et la gestion du fourrage, nous créons un écosystème holistique qui profite aux populations et à la planète. Notre engagement est de produire des aliments nutritifs, de régénérer le sol et de partager nos connaissances avec la communauté."
+    },
+    "why": {
+      "title": "Pourquoi nous soutenir ?",
+      "desc": "Votre contribution est un investissement dans un avenir durable et résilient. Nous construisons un modèle économique circulaire qui nécessite un financement initial pour développer nos infrastructures, des outils de production au traitement des déchets. Votre soutien est crucial pour concrétiser cette vision.",
+      "pillars": {
+        "social": {
+          "title": "Impact Social",
+          "desc": "Contribuez à l'ancrage local, à l'éducation et à la création d'emplois durables. Votre soutien aide à construire une communauté résiliente à la base."
+        },
+        "economic": {
+          "title": "Viabilité Économique",
+          "desc": "Investissez dans un modèle circulaire qui crée de la valeur à chaque étape, de la production à la transformation des déchets, assurant une durabilité financière à long terme."
+        },
+        "environmental": {
+          "title": "Impact Environnemental",
+          "desc": "Financez un projet qui régénère activement les sols, préserve la biodiversité et promeut une méthode de production résiliente face au changement climatique."
+        }
+      }
+    },
+    "vision": {
+      "title": "Notre Vision",
+      "desc": "Être un exemple de premier plan d'agriculture intégrée durable au Rwanda et au-delà, en inspirant les communautés à adopter des pratiques régénératrices qui restaurent la terre tout en assurant la sécurité alimentaire et des opportunités économiques. Nous envisageons un avenir où l'agriculture fonctionne en harmonie avec la nature."
+    },
+    "commitment": {
+      "title": "Notre Engagement Durable",
+      "desc": "Notre modèle circulaire est notre engagement en action. Les cultures nourrissent notre bétail, dont les déchets sont transformés en compost riche. Ce compost régénère notre sol, nous permettant de cultiver des plantes plus nutritives. Ce système en circuit fermé minimise les déchets, maximise l'efficacité des ressources et crée un écosystème agricole véritablement durable.",
+      "btn": "Rejoindre notre engagement"
+    }
+  },
+  "about": {
+    "title": "À propos | Ferme Cyicaro",
+    "meta": "Découvrez la ferme Cyicaro, un projet agroforestier durable fondé en 2019 à Mushishiro.",
+    "hero": {
+      "title": "À Propos de Cyicaro Project Farm",
+      "subtitle": "Stimuler le développement rural durable grâce à une économie circulaire intégrée à Mushishiro.",
+      "cta": "Découvrir Notre Impact"
+    },
+    "problem": {
+      "title": "Le Problème Que Nous Résolvons",
+      "desc": "Les zones rurales sont confrontées à des défis majeurs : terres sous-utilisées, chômage des jeunes, faible valorisation des cultures et manque de transformation agricole. Cyicaro agit pour transformer ces défis en opportunités.",
+      "cards": {
+        "p1": {
+          "title": "Valorisation des Terres",
+          "desc": "Réhabiliter les parcelles inutilisées avec des pratiques de conservation des sols."
+        },
+        "p2": {
+          "title": "Création d'Emplois",
+          "desc": "Créer des emplois locaux et offrir une formation pratique sur le terrain."
+        },
+        "p3": {
+          "title": "Valorisation Locale",
+          "desc": "Qualité, tri, marchés de proximité et petite transformation."
+        },
+        "p4": {
+          "title": "Sécurité Alimentaire",
+          "desc": "Soutenir la cantine scolaire et les ménages vulnérables avec nos récoltes."
+        }
+      }
+    },
+    "circular": {
+      "title": "Notre Approche Circulaire",
+      "subtitle": "Culture ↔ Élevage ↔ Compost ↔ Transformation",
+      "desc": "Ce cycle interconnecté transforme les ressources sous-utilisées en valeur économique et sociale durable pour Mushishiro. Tout est réutilisé ; rien ne se perd."
+    },
+    "solutions": {
+      "title": "Les Solutions Que Nous Apportons",
+      "pillars": {
+        "societal": {
+          "title": "Impact Sociétal",
+          "items": [
+            "Emplois locaux (cultures, élevage, compost, développement).",
+            "Formation sur le terrain pour les jeunes et les femmes.",
+            "Cantine scolaire : part des récoltes, lait/œufs pour les vulnérables.",
+            "Compost à prix social et parcelles de démonstration."
+          ]
+        },
+        "environmental": {
+          "title": "Impact Environnemental",
+          "items": [
+            "Compost 100% naturel régénérant les sols.",
+            "Couverture végétale et paillage : humidité retenue, moins d'herbicides.",
+            "Bandes anti-érosives et forêt paysanne (Grevillea).",
+            "Apiculture : meilleure pollinisation et biodiversité accrue."
+          ]
+        },
+        "economic": {
+          "title": "Viabilité Économique",
+          "items": [
+            "Ventes locales : bananes, agrumes, produits d'élevage.",
+            "Petite transformation pour créer plus de valeur.",
+            "Cercle vertueux : élevage → compost → cultures → revenus.",
+            "Besoins clés financés : compost, post-récolte, équipement."
+          ]
+        }
+      }
+    },
+    "mission": {
+      "title": "Notre Mission",
+      "subtitle": "Créer de la valeur utile à Mushishiro : Produire, Régénérer, Partager et Transformer.",
+      "items": {
+        "m1": "Produire de manière responsable des fruits, cultures de base et produits animaux.",
+        "m2": "Développer un élevage intégré générant des revenus et des engrais organiques.",
+        "m3": "Régénérer les sols grâce au compost, à la couverture végétale et au contrôle de l'érosion.",
+        "m4": "Partager l'utilité sociale : emplois, formations, dons à la cantine.",
+        "m5": "Transformer localement pour réduire les pertes et créer de la valeur ajoutée.",
+        "m6": "Assurer la transparence et les partenariats via des registres simples et des visites."
+      }
+    },
+    "funding": {
+      "title": "Ce Dont Nous Avons Besoin Pour Accélérer L'Impact",
+      "desc": "Votre soutien nous aide à passer d'un modèle fonctionnel à une capacité structurée sur le long terme.",
+      "items": {
+        "f1": {
+          "title": "Augmenter l'Élevage",
+          "desc": "Plus de lait, d'œufs et de compost ; des dons alimentaires plus réguliers."
+        },
+        "f2": {
+          "title": "Mécanisation Légère",
+          "desc": "Soulager le travail et augmenter les rendements avec des outils adaptés."
+        },
+        "f3": {
+          "title": "Entrepôt Polyvalent",
+          "desc": "Zone propre et ventilée pour la macadamia et le stockage sécurisé."
+        },
+        "f4": {
+          "title": "Équipement d'Alimentation",
+          "desc": "Mélangeur/broyeur pour formuler les rations et réduire les coûts."
+        },
+        "f5": {
+          "title": "Fonds de Roulement",
+          "desc": "Couvrir les intrants de base et maintenir nos engagements sociaux."
+        }
+      },
+      "benefit": "En échange : traçabilité des dépenses, visites sur le terrain et rapports d'impact courts."
+    },
+    "whyNow": {
+      "title": "Pourquoi Maintenant ?",
+      "desc": "Nous avons prouvé que notre modèle fonctionne. Passer à l'échelle maintenant signifie plus de produits, moins de pertes et un impact social direct pour l'école et les ménages de Mushishiro. Les fondations sont posées ; il est temps de construire l'avenir."
+    },
+    "metrics": {
+      "jobs": "Emplois Locaux Créés",
+      "hectares": "Hectares Gérés",
+      "students": "Étudiants Soutenus"
+    },
+    "cta": {
+      "title": "Rejoignez Notre Aventure",
+      "subtitle": "Soutenez notre approche intégrée et changez des vies à Mushishiro.",
+      "btnDonate": "Faire un Don",
+      "btnContact": "Devenir Partenaire"
+    }
+  },
+  "nos_activites": {
+    "integration_power": {
+      "title": "Le Pouvoir de l'Intégration",
+      "description": "Ces activités ne sont pas des initiatives séparées ; elles sont <strong>profondément intégrées</strong>.<br/><br/>L'<strong>agriculture</strong> fournit de la nourriture à notre bétail et des ressources pour notre centre de transformation.<br/>L'<strong>élevage</strong> fournit du fumier pour enrichir nos sols.<br/>Nos <strong>forêts</strong> protègent nos terres.<br/><br/>Ce <strong>système holistique</strong> crée une ferme résiliente et autonome qui profite à l'environnement et à notre communauté."
+    }
+  },
+  "activitiesPage": {
+    "title": "Nos Activités",
+    "subtitle": "Découvrez nos initiatives agricoles intégrées pour bâtir un avenir durable.",
+    "btnLearnMore": "En savoir plus",
+    "btnClose": "Fermer",
+    "categories": {
+      "agriculture": "Agriculture & Cultures",
+      "livestock": "Élevage & Animaux",
+      "ecosystem": "Écosystème & Impact"
+    },
+    "items": [
+      {
+        "title": "Culture de la Macadamia",
+        "short": "Culture durable de noix de macadamia pour une valeur communautaire à long terme.",
+        "full": "Nous cultivons des centaines d'arbres de macadamia comme investissement à long terme. Cette culture à haute valeur ajoutée offre une excellente nutrition, améliore la santé des sols grâce à l'agroforesterie et crée des opportunités économiques durables pour les agriculteurs locaux."
+      },
+      {
+        "title": "Élevage & Sources",
+        "short": "Gestion intégrée de l'élevage reposant sur des sources d'eau propres et protégées.",
+        "full": "La gestion de notre bétail est profondément intégrée à nos efforts de conservation de l'eau. Nous garantissons une eau potable propre à nos animaux tout en protégeant les sources locales. Cette approche maintient nos troupeaux en bonne santé et prévient la contamination de l'eau."
+      },
+      {
+        "title": "Agrumes & Fruits",
+        "short": "Vergers diversifiés fournissant des aliments frais et nutritifs localement.",
+        "full": "Nos vergers dynamiques regorgent de divers agrumes et autres fruits. Ces vergers améliorent la sécurité alimentaire locale, fournissent des habitats vitaux pour les pollinisateurs et constituent une source fiable de produits frais et sains pour la communauté tout en diversifiant les revenus."
+      },
+      {
+        "title": "Plantations de Bananiers",
+        "short": "Culture de bananes garantissant une sécurité alimentaire continue.",
+        "full": "Les bananes sont une culture de base essentielle dans notre région. Nos plantations durables de bananiers assurent une sécurité alimentaire et des revenus tout au long de l'année. Les grandes feuilles de bananier fournissent également une ombre essentielle aux autres cultures."
+      },
+      {
+        "title": "Élevage d'Animaux",
+        "short": "Des animaux en bonne santé fournissant des ressources essentielles et des engrais naturels.",
+        "full": "Nous élevons divers animaux en mettant l'accent sur le bien-être animal. Nos animaux fournissent des sources de protéines essentielles, et leur fumier est un ingrédient clé de notre compost de haute qualité. Ce système intégré élimine le besoin d'engrais chimiques."
+      },
+      {
+        "title": "Compostage",
+        "short": "Transformation des déchets organiques en sols riches en nutriments.",
+        "full": "Le compostage est au cœur de notre cycle de régénération. Nous collectons les déchets agricoles et le fumier animal, les transformant en un riche compost organique. Ce système en circuit fermé enrichit naturellement le sol et augmente sa capacité de rétention d'eau."
+      },
+      {
+        "title": "Fourrages & Pâturages",
+        "short": "Des herbes nutritives cultivées pour nourrir durablement nos animaux.",
+        "full": "Nous consacrons des zones spécifiques à la culture de fourrages de haute qualité pour notre bétail. Cela garantit une nutrition optimale toute l'année, réduit la dépendance aux aliments importés et permet un pâturage tournant, offrant aux pâturages le temps de récupérer."
+      },
+      {
+        "title": "Forêts & Agroforesterie",
+        "short": "Intégration des arbres dans l'agriculture pour protéger et restaurer la terre.",
+        "full": "Nos initiatives forestières sont conçues pour lutter contre l'érosion, améliorer la rétention d'eau et renforcer la biodiversité locale. En intégrant des arbres indigènes dans notre paysage agricole, nous créons des brise-vent naturels et assurons un approvisionnement durable."
+      },
+      {
+        "title": "Impact Social",
+        "short": "Autonomisation des communautés par l'emploi et l'éducation.",
+        "full": "Notre ferme est un catalyseur de développement communautaire. Nous créons des emplois équitablement rémunérés, proposons des formations en agriculture régénératrice et soutenons les initiatives éducatives locales. Notre objectif est d'élever toute la région."
+      },
+      {
+        "title": "Cultures Innovantes",
+        "short": "Expérimentation de nouvelles variétés végétales résilientes.",
+        "full": "Nous testons et intégrons continuellement de nouvelles variétés de cultures résilientes au climat dans notre système. Cette approche innovante nous aide à nous adapter aux changements climatiques, à découvrir de nouveaux marchés à forte valeur ajoutée."
+      }
+    ]
+  },
+  "whatWeDo": {
+    "title": "Ce que nous faisons - Ferme Cyicaro",
+    "meta": "Explorez les activités intégrées de la ferme Cyicaro : Agriculture, Élevage, Compostage, et plus encore. Voyez comment nous construisons un avenir durable.",
+    "hero": {
+      "title": "Nos Activités",
+      "desc": "Un modèle intégré pour un avenir résilient et prospère."
+    },
+    "activities": {
+      "agriculture": {
+        "title": "Agriculture",
+        "desc": "Nos diverses pratiques agricoles constituent la base de notre système régénérateur, mettant l'accent sur les cultures à haute valeur ajoutée, la sécurité alimentaire et la santé des sols.",
+        "subs": {
+          "macadamia": {
+            "title": "Macadamia",
+            "desc": "Nous cultivons des centaines d'arbres de macadamia sur notre site de Cyicaro. Ces arbres représentent un investissement à long terme dans des produits nutritifs et de grande valeur."
+          },
+          "sugar": {
+            "title": "Canne à Sucre",
+            "desc": "Nos plants de canne à sucre sont une source locale de douceur durable. Cette culture est bien adaptée à notre climat et fournit des matières premières."
+          },
+          "citrus": {
+            "title": "Agrumes et Fruits",
+            "desc": "Notre verger diversifié prospère avec une variété d'agrumes et d'autres fruits, offrant des options fraîches et saines à la communauté locale."
+          },
+          "banana": {
+            "title": "Bananes",
+            "desc": "Nous renforçons la sécurité alimentaire locale avec de vastes plantations de bananiers. Ces bananes sont une source de nourriture de base."
+          }
+        }
+      },
+      "livestock": {
+        "title": "Élevage",
+        "desc": "Nos animaux sont essentiels à notre modèle circulaire, fournissant du fumier pour le compost, aidant à la gestion des terres et fournissant des produits précieux.",
+        "subs": {
+          "cattle": {
+            "title": "Bovins",
+            "desc": "Notre troupeau contribue à la fertilité des sols grâce au pâturage géré et fournit du fumier, un élément crucial de notre production de compost biologique."
+          },
+          "poultry": {
+            "title": "Volailles / Poules Pondeuses",
+            "desc": "Notre troupeau de poules pondeuses fournit des œufs frais et nutritifs à la communauté et contribue à l'enrichissement des sols."
+          },
+          "bees": {
+            "title": "Abeilles",
+            "desc": "Nos ruchers sont vitaux pour la pollinisation de nos diverses cultures et vergers. Ils produisent également un délicieux miel brut."
+          },
+          "goats": {
+            "title": "Chèvres",
+            "desc": "Rustiques et efficaces, nos chèvres aident à gérer la végétation et fournissent du lait et du fumier."
+          },
+          "pigs": {
+            "title": "Porcs",
+            "desc": "Nos porcs jouent un rôle dans la conversion des sous-produits agricoles en protéines précieuses et contribuent à notre système de compostage."
+          }
+        }
+      },
+      "compost": {
+        "title": "Compost et Engrais",
+        "desc": "Au cœur de notre processus de régénération se trouve notre compost de haute qualité. En transformant le fumier animal et les déchets organiques en amendement de sol riche en nutriments."
+      },
+      "forage": {
+        "title": "Fourrage",
+        "desc": "Nous consacrons des terres à la culture de fourrage nutritif pour notre bétail. Cette pratique garantit que nos animaux sont en bonne santé et bien nourris."
+      },
+      "forest": {
+        "title": "Foresterie",
+        "desc": "Nos initiatives d'agroforesterie intègrent des arbres dans notre paysage agricole pour améliorer la biodiversité, prévenir l'érosion des sols et améliorer la rétention d'eau."
+      }
+    },
+    "impact": {
+      "tag": "Impact Social",
+      "title": "Autonomiser Notre Communauté Locale",
+      "desc": "Notre ferme est plus qu'un simple projet agricole ; c'est un centre de croissance communautaire. En offrant des emplois équitables, des programmes éducatifs pour les jeunes locaux et en soutenant les écoles locales, nous veillons à ce que notre succès se traduise par la prospérité régionale.",
+      "stats": {
+        "jobs": {
+          "value": "50+",
+          "label": "Emplois Locaux Créés"
+        },
+        "students": {
+          "value": "200+",
+          "label": "Étudiants Soutenus"
+        }
+      }
+    },
+    "integration": {
+      "title": "Le Pouvoir de l'Intégration",
+      "desc": "Ces activités ne sont pas des initiatives séparées ; elles sont profondément intégrées. L'agriculture fournit de la nourriture à notre bétail. L'élevage fournit du fumier pour enrichir nos sols. Nos forêts protègent nos terres. Ce système holistique crée une ferme résiliente et autonome."
+    }
+  },
+  "donate": {
+    "title": "Faire un don - Soutenir la ferme Cyicaro",
+    "meta": "Soutenez la mission de la ferme Cyicaro de créer une agriculture durable et d'autonomiser les communautés grâce à des pratiques agricoles intégrées.",
+    "hero": {
+      "title": "Soutenez Notre Mission",
+      "desc": "Votre don nous aide à étendre les pratiques agricoles durables et à autonomiser les communautés à travers le Rwanda",
+      "btn": "Faire un don maintenant"
+    },
+    "redirect": {
+      "title": "Redirection vers la plateforme de don",
+      "desc": "🚧 Cette fonctionnalité n'est pas encore implémentée—mais ne vous inquiétez pas ! Vous pouvez la demander dans votre prochain prompt ! 🚀"
+    },
+    "impact": {
+      "title": "Où Va Votre Don",
+      "desc": "Chaque contribution soutient directement nos initiatives d'agriculture intégrée et nos programmes de développement communautaire",
+      "areas": {
+        "expand": {
+          "title": "Développer la Production Agricole",
+          "desc": "Aidez-nous à cultiver plus de terres et à introduire de nouvelles techniques agricoles durables pour augmenter la production alimentaire.",
+          "amount": "500 €"
+        },
+        "train": {
+          "title": "Former Plus d'Agriculteurs",
+          "desc": "Soutenez nos programmes de formation pour doter les agriculteurs locaux de connaissances et de compétences en agriculture régénératrice.",
+          "amount": "250 €"
+        },
+        "infrastructure": {
+          "title": "Améliorer les Infrastructures",
+          "desc": "Investissez dans de meilleurs systèmes d'irrigation, des installations de stockage et des équipements pour améliorer notre efficacité agricole.",
+          "amount": "1 000 €"
+        }
+      }
+    },
+    "tiers": {
+      "title": "Niveaux de Don",
+      "desc": "Choisissez un niveau de don qui vous convient et recevez une reconnaissance spéciale pour votre soutien",
+      "popular": "Le Plus Populaire",
+      "btnPrefix": "Faire un don de",
+      "items": {
+        "supporter": {
+          "title": "Supporter",
+          "amount": "25 €",
+          "b1": "Bulletins d'information mensuels",
+          "b2": "Certificat numérique d'appréciation",
+          "b3": "Reconnaissance sur les réseaux sociaux"
+        },
+        "champion": {
+          "title": "Champion",
+          "amount": "100 €",
+          "b1": "Tous les avantages du Supporter",
+          "b2": "Rapports d'impact trimestriels",
+          "b3": "Invitation aux visites virtuelles de la ferme",
+          "b4": "Mise à jour vidéo personnalisée"
+        },
+        "partner": {
+          "title": "Partenaire",
+          "amount": "500 €",
+          "b1": "Tous les avantages du Champion",
+          "b2": "Visite annuelle de la ferme en personne",
+          "b3": "Nom sur le mur des donateurs",
+          "b4": "Mises à jour directes de la direction",
+          "b5": "Opportunité de parrainer des projets spécifiques"
+        }
+      }
+    },
+    "why": {
+      "title": "Pourquoi Votre Soutien Compte",
+      "imageAlt": "Membres de la communauté bénéficiant de la ferme",
+      "desc1": "Votre don à la ferme Cyicaro crée un impact durable qui s'étend bien au-delà de nos champs. Lorsque vous soutenez notre approche d'agriculture intégrée, vous investissez dans :",
+      "l1": "Une production alimentaire durable qui nourrit des centaines de familles",
+      "l2": "La régénération de l'environnement grâce à des pratiques d'agriculture biologique",
+      "l3": "L'autonomisation économique des communautés locales",
+      "l4": "Le partage des connaissances qui multiplie l'impact à travers la région",
+      "desc2": "Chaque contribution, quelle que soit sa taille, nous aide à accroître notre impact et à atteindre plus de communautés avec des solutions agricoles durables."
+    },
+    "other": {
+      "title": "Autres Façons de Nous Soutenir",
+      "items": {
+        "volunteer": {
+          "title": "Bénévolat",
+          "desc": "Partagez vos compétences et votre temps avec notre communauté"
+        },
+        "partner": {
+          "title": "Partenariat",
+          "desc": "Collaborez avec nous sur la recherche et le développement"
+        },
+        "spread": {
+          "title": "Passez le Mot",
+          "desc": "Partagez notre mission avec votre réseau"
+        }
+      }
+    }
+  }
+}
